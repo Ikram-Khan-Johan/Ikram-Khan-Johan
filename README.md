@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ikram-Khan-Johan
 - 👀 I’m interested in Game and Web App Development.
-- 🌱 I’m currently learning Asp.net Core
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm experienced in Game Development and working in Unity near 4 years.
+- - 🌱 I’m currently learning Asp.net Core
 - 📫 How to reach me ...
 
 <!---
